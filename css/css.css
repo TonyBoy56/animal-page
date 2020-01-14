@@ -1,4 +1,4 @@
-body {
+ body {
   background: url(../img/background.jpg);
   font-family: helvetica;
 }
@@ -38,4 +38,8 @@ h2 {
   border: 1px solid white;
   border-radius: 20px;
   margin: 10px;
+}
+
+.green-background {
+  background-color: green;
 }
